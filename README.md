@@ -5,7 +5,7 @@
   - [ ] linked lists
   - [ ] stack
   - [ ] queues
-  - [ ] binary search tree (BST)
+  - [ ] binary trees
 ## big O graphics
 ### arrays
 ### linked lists
@@ -15,4 +15,4 @@
      <img width="844" height="531" alt="image" src="https://github.com/user-attachments/assets/6fb089cc-5543-4fd6-8e5b-2c69c9dc18b6" />
 ### stack
 ### queue
-### BST
+### binary search tree
