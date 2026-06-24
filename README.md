@@ -8,23 +8,23 @@
   - [ ] binary trees
 ## big O graphics
 ### stack
-- push
-  <img src="bigO/cte.png">
+- push:
+    <img src="bigO/cte.png" width="500" heigth="400">
 - pop
-  <img src="bigO/cte.png">
+    <img src="bigO/cte.png" width="500" heigth="400">
 - print
-  <img src="bigO/linear.png">
+    <img src="bigO/linear.png" width="500" heigth="400">
 - peek
-  <img src="bigO/cte.png">
+    <img src="bigO/cte.png" width="500" heigth="400">
 ### queue
 - enqueue
-  <img src="bigO/cte.png">
+    <img src="bigO/cte.png" width="500" heigth="400">
 - dequeue
-  <img src="bigO/cte.png">
+    <img src="bigO/cte.png" width="500" heigth="400">
 - print
-  <img src="bigO/linear.png">
+    <img src="bigO/linear.png" width="500" heigth="400">
 - peek
-  <img src="bigO/cte.png">
+    <img src="bigO/cte.png" width="500" heigth="400">
 ### linked lists
 - insert
 - remove
