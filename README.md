@@ -18,8 +18,13 @@
   <img src="bigO/cte.png">
 ### queue
 - enqueue
+  <img src="bigO/cte.png">
 - dequeue
+  <img src="bigO/cte.png">
 - print
+  <img src="bigO/linear.png">
+- peek
+  <img src="bigO/cte.png">
 ### linked lists
 - insert
 - remove
