@@ -8,7 +8,19 @@
   - [ ] binary trees
 ## big O graphics
 ### stack
-
+- push
+- pop
+- print
+- peek
 ### queue
+- enqueue
+- dequeue
+- print
 ### linked lists
+- insert
+- remove
+- print
 ### binary search tree
+- insert
+- remove
+- print
