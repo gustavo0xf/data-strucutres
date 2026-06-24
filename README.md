@@ -9,9 +9,13 @@
 ## big O graphics
 ### stack
 - push
+  <img src="graphs/cte.png">
 - pop
+  <img src="graphs/cte.png">
 - print
+  <img src="graphs/linear.png">
 - peek
+  <img src="graphs/cte.png">
 ### queue
 - enqueue
 - dequeue
