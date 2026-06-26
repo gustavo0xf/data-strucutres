@@ -1,7 +1,7 @@
 #ifndef ELEMENTS_H
 #define ELEMENTS_H
 
-typdef struct node {
+typedef struct node {
     int data;
     struct node *right;
     struct node *left;
@@ -9,7 +9,7 @@ typdef struct node {
 
 typedef struct {
     Node *root;
-    int heigth;
+    int height;
     int nodes;
     int leaves;
 } BinarySearchTree;
